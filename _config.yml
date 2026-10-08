@@ -6,7 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 # Debe ser EXACTAMENTE el nombre de tu repositorio
-baseurl: "/portafolio"
+baseurl: "/Documentacion"
 url: "https://Santidwago-pixel.github.io"
 
 # Colores: edita _sass/color_schemes/custom.scss
