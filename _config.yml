@@ -1,13 +1,13 @@
-# ====== TU INFORMACIÓN (cambia lo que dice TU-...) ======
+# ====== TU INFORMACIÓN ======
 title: Santiago Cervantes Strevel
 description: Pagina Web Pensamiento de Ingeniería
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# Debe ser EXACTAMENTE el nombre de tu repositorio
+# Nombre de tu repositorio
 baseurl: "/Documentacion"
-url: "https://Santidwago-pixel/Documentacion.github.io"
+url: "https://santidwago-pixel.github.io"
 
 # Colores: edita _sass/color_schemes/custom.scss
 color_scheme: custom
@@ -19,6 +19,6 @@ search_enabled: true
 
 aux_links:
   "Mi GitHub":
-    - "https://Santidwago-pixel.github.io"
+    - "https://github.com/Santidwago-pixel/Documentacion"
 
 footer_content: "© 2026 Santiago Cervantes Strevel · Ingenieria Mecatronica · Universidad Iberoamericana"
