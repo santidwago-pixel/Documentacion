@@ -7,7 +7,7 @@ plugins:
 
 # Debe ser EXACTAMENTE el nombre de tu repositorio
 baseurl: "/Documentacion"
-url: "https://Santidwago-pixel.github.io"
+url: "https://Santidwago-pixel/Documentacion.github.io"
 
 # Colores: edita _sass/color_schemes/custom.scss
 color_scheme: custom
