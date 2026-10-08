@@ -1,0 +1,24 @@
+# ====== TU INFORMACIÓN (cambia lo que dice TU-...) ======
+title: Tu Nombre Completo
+description: Portafolio académico de Pensamiento de Ingeniería
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Debe ser EXACTAMENTE el nombre de tu repositorio
+baseurl: "/portafolio"
+url: "https://TU-USUARIO.github.io"
+
+# Colores: edita _sass/color_schemes/custom.scss
+color_scheme: custom
+
+# Logo opcional (sube assets/images/logo.png y quita el #)
+# logo: "/assets/images/logo.png"
+
+search_enabled: true
+
+aux_links:
+  "Mi GitHub":
+    - "https://github.com/TU-USUARIO/portafolio"
+
+footer_content: "© 2026 Tu Nombre Completo · Tu carrera · Tu universidad"
