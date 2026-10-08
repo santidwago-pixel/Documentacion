@@ -20,3 +20,4 @@ Mi meta a largo plazo en esta clase seria dessarollar mis habilidades que a larg
 ## Contacto
 - Correo: A2683909@correo.uia.mx
 - GitHub: [santidago-pixel](https://github.com/santidwago-pixel)
+- Con ayuda de IA (claude) Info directamente mia
