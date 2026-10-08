@@ -7,16 +7,16 @@ nav_order: 2
 
 ![Mi foto]({{ '/assets/images/foto-perfil.jpg' | relative_url }}){: width="250" }
 
-Hola, soy **Tu Nombre**. Estudio **Tu carrera** en **Tu universidad**.
+Hola, soy **Santiago Cervantes Stevel**. Estudio **Ingeniería Mecatronica** en **la Universidad Iberoamericana**.
 
 ## Mis intereses
-- Interés 1
-- Interés 2
-- Interés 3
+- Musica
+- Box
+- Snow Board
 
 ## Mis metas
-Escribe aquí qué quieres lograr en tu carrera y en esta clase.
+Mi meta a largo plazo en esta clase seria dessarollar mis habilidades que a largo plazo me ayudara en mi futura carrera profesional y poder adquerir nuevos conocimientos.
 
 ## Contacto
-- Correo: tucorreo@ejemplo.com
-- GitHub: [TU-USUARIO](https://github.com/TU-USUARIO)
+- Correo: A2683909@correo.uia.mx
+- GitHub: [santidago-pixel](https://github.com/santidwago-pixel)

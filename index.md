@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Portafolio académico
+# Pagina Web
 
 ## Tu Nombre Completo
 
@@ -17,14 +17,16 @@ Bienvenido a mi portafolio web. Aquí reúno las evidencias, aprendizajes y proy
 ## ¿Qué encontrarás aquí?
 
 ### 👤 Acerca de mí
-Mi presentación personal, intereses y metas profesionales.
+Me llamo Santiago cervantes, soy un alumno de Ingeniería Mecatronica en la Ibero.
+Naci el 29 de octubre del 2006 por lo cual tengo 19 años.
+Me gusta mucho la Musica y el Box.
 
 ### 📚 Semanas de la clase
 Una página por semana, con sus actividades y evidencias dentro de cada sub-índice.
 
 ---
 
-> **Objetivo del portafolio**
+> **Objetivo de la pagina web**
 > Documentar mi proceso de aprendizaje de forma clara, ordenada y visual.
 
 [Ir a Acerca de mí]({{ '/acerca-de-mi/' | relative_url }}){: .btn .btn-primary }
